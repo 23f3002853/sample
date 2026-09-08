@@ -1,28 +1,17 @@
-# Core UI
 streamlit==1.37.0
-
-# Deep Learning
 torch==2.9.0
-transformers==5.0.0
-datasets==3.0.1
-accelerate==1.14.0
-peft==0.13.0
-safetensors==0.8.0
-huggingface-hub==1.30.0
-
-# Data Handling
-pandas==2.3.3
-numpy==2.5.3
-scikit-learn==1.5.2
-pyyaml==6.0.3
-
-# Notebook Compatibility (if needed)
-ipykernel==7.3.0
-nbformat==5.11.1
-
-# Logging / Experiment Tracking
+transformers==4.40.2
+datasets==2.19.0
+accelerate==0.29.3
+peft==0.10.0
+safetensors==0.4.3
+huggingface-hub==0.23.0
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.4.2
+pyyaml==6.0.1
 wandb==0.17.5
-
-# Utility
-regex==2026.9.3
-tqdm==4.70.0
+regex==2024.5.15
+tqdm==4.66.4
+ipykernel==6.29.4
+nbformat==5.10.4
