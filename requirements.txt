@@ -3,5 +3,12 @@ torch==2.9.0
 transformers==5.0.0
 datasets==3.0.1
 peft==0.13.0
-ipykernel
-nbformat
+accelerate==1.14.0
+safetensors==0.8.0
+huggingface-hub==1.30.0
+pandas==2.3.3
+numpy==2.5.3
+scikit-learn==1.5.2
+pyyaml==6.0.3
+ipykernel==7.3.0
+nbformat==5.11.1
