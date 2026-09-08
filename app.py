@@ -25,7 +25,7 @@ for dirname, _, filenames in os.walk('/kaggle/input'):
 # Use the kagglehub client library to attach Kaggle resources like competitions, datasets, and models to your session
 # Learn more about kagglehub: https://github.com/Kaggle/kagglehub/blob/main/README.md
 
-import kagglehub
+# import kagglehub
 # kagglehub.dataset_download('<owner>/<dataset-slug>')
 
 # #  Deep Learning & Generative AI Project – Smart MCQ Solver
