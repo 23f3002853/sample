@@ -3,3 +3,5 @@ torch>=2.2,<2.3
 transformers==4.39.3
 datasets==2.19.0
 peft==0.10.0
+ipykernel
+nbformat
